@@ -3,6 +3,8 @@
 ## Dataset for this paper
 This repository includes the datasets for this paper. It includes two types of data: the smaller one is with url for articles while the bigger one is with the content of articles. 
 
+## How to use?
+tar zxvf *.tgz (either article_commenting.tgz or acl18origin_data.tgz) and then you can find readme.txt for usages.
 
 ## Reference
 
