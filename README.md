@@ -17,7 +17,7 @@ This repository includes the datasets for this paper. It includes two types of d
       Hu, Zhiting  and
       Zhao, Hai  and
       Shi, Shuming",
-    booktitle = "Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+    booktitle = "Proceedings of ACL (Volume 2: Short Papers)",
     month = jul,
     year = "2018",
     address = "Melbourne, Australia",
